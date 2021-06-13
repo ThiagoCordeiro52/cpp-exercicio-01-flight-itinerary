@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thiagoty52/exercicio-01-flight-itinerary-ThiagoOliveiraCordeiro/source/src/route.h
+string
+-
+sstream
+-
+
+/home/thiagoty52/exercicio-01-flight-itinerary-ThiagoOliveiraCordeiro/source/tests/include/tm/test_manager.h
+iostream
+-
+iomanip
+-
+algorithm
+-
+string
+-
+unordered_map
+-
+vector
+-
+
+/home/thiagoty52/exercicio-01-flight-itinerary-ThiagoOliveiraCordeiro/source/tests/main.cpp
+iterator
+-
+functional
+-
+algorithm
+-
+iterator
+-
+algorithm
+-
+random
+-
+include/tm/test_manager.h
+/home/thiagoty52/exercicio-01-flight-itinerary-ThiagoOliveiraCordeiro/source/tests/include/tm/test_manager.h
+../src/route.h
+/home/thiagoty52/exercicio-01-flight-itinerary-ThiagoOliveiraCordeiro/source/src/route.h
+

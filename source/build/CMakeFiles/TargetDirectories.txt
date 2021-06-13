@@ -1,0 +1,8 @@
+/home/thiagoty52/exercicio-01-flight-itinerary-ThiagoOliveiraCordeiro/source/build/CMakeFiles/rebuild_cache.dir
+/home/thiagoty52/exercicio-01-flight-itinerary-ThiagoOliveiraCordeiro/source/build/CMakeFiles/edit_cache.dir
+/home/thiagoty52/exercicio-01-flight-itinerary-ThiagoOliveiraCordeiro/source/build/CMakeFiles/run_tests.dir
+/home/thiagoty52/exercicio-01-flight-itinerary-ThiagoOliveiraCordeiro/source/build/CMakeFiles/route.dir
+/home/thiagoty52/exercicio-01-flight-itinerary-ThiagoOliveiraCordeiro/source/build/tests/CMakeFiles/edit_cache.dir
+/home/thiagoty52/exercicio-01-flight-itinerary-ThiagoOliveiraCordeiro/source/build/tests/CMakeFiles/all_tests.dir
+/home/thiagoty52/exercicio-01-flight-itinerary-ThiagoOliveiraCordeiro/source/build/tests/CMakeFiles/rebuild_cache.dir
+/home/thiagoty52/exercicio-01-flight-itinerary-ThiagoOliveiraCordeiro/source/build/tests/CMakeFiles/TM.dir

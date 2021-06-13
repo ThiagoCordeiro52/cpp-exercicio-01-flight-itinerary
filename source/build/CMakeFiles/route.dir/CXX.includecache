@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thiagoty52/exercicio-01-flight-itinerary-ThiagoOliveiraCordeiro/source/src/route.cpp
+string
+-
+sstream
+-
+iostream
+-
+string.h
+-
+route.h
+/home/thiagoty52/exercicio-01-flight-itinerary-ThiagoOliveiraCordeiro/source/src/route.h
+
+/home/thiagoty52/exercicio-01-flight-itinerary-ThiagoOliveiraCordeiro/source/src/route.h
+string
+-
+sstream
+-
+
